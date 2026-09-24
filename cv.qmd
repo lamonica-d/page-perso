@@ -2,7 +2,7 @@
 title: ""
 ---
 
-### Teaching & Trainings
+### Teaching & Training
 
 * ISI trainings: R for beginners, GIT
 
@@ -11,7 +11,7 @@ title: ""
 * Summer/Winter School: Ecotoxicology and Predictive Modelling at SETAC  PREDITOX
 
 
-### Postdocs & research contracts
+### Postdocs & Research contracts
 
 * Research Engineer: TKTD modelling of birds exposed to pesticides - MEPS, LBBE, University Claude Bernard Lyon 1 - 04/2022 to 02/2023 - Lyon, France
 
@@ -19,7 +19,7 @@ title: ""
 
 * Postdoctoral fellow: Data-driven modelling of forest dynamics - Institute of Landscape and Plant Ecology, Hohenheim University - 11/2017 to 06/2020 - Hohenheim, Germany
 
-
+* PhD candidate: Bayesian dynamic modelling of a three-species laboratory microcosm under chemical pressure - MEPS, LBBE and IPE, LEHNA, University Claude Bernard Lyon 1 - 01/2013 to 04/2016 - Lyon, France
 
 ### Education
 
