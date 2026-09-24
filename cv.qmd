@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+### Teaching & Trainings
+
+* ISI trainings: R for beginners, GIT
+
+* University courses: Statistics (L1/L3/M2), Dynamical systems (L3/M1), Modelling and statistics using R (L2), Introduction to modelling (L2/L3) at University Claude Bernard Lyon 1, INSA Lyon, Montpellier SupAgro
+
+* Summer/Winter School: Ecotoxicology and Predictive Modelling at SETAC  PREDITOX
+
+
+### Postdocs & research contracts
+
+* Research Engineer: TKTD modelling of birds exposed to pesticides - MEPS, LBBE, University Claude Bernard Lyon 1 - 04/2022 to 02/2023 - Lyon, France
+
+* Postdoctoral fellow: Trajectometry and fish behaviour in the Rhône river - Riverly-Ecoflows, Inrae - 05/2016 to 10/2017 and 07/2020 to 12/2021 - Lyon, France
+
+* Postdoctoral fellow: Data-driven modelling of forest dynamics - Institute of Landscape and Plant Ecology, Hohenheim University - 11/2017 to 06/2020 - Hohenheim, Germany
+
+
+
+### Education
+
+* Ph.D. in ecological modelling - University Claude Bernard Lyon 1 - 04/2016 - Lyon, France
+
+* Engineering degree in environmental engineering - Ecole Nationale Supérieure Agronomique de Toulouse (INP-ENSAT) - 09/2012 - Toulouse, France
