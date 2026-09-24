@@ -54,7 +54,9 @@ Upscaling biological levels from individual to landscape. \
 
 * ads R package maintainer [CRAN](https://cran.r-project.org/web/packages/ads/index.html)
 
-### Publication list
+### Publication list (incl. work in progress)
+
+**D. Lamonica**, A. Bailly, ..., M. Réjou-Méchain. BIOMASS R package version 3. In prep. \
 
 J. Chave, S. L. Davis, ..., **D. Lamonica**, ..., et al. The GEO-TREES initiative: high-accuracy reference data for satellite-derived biomass mapping. In prep. \
 
@@ -70,7 +72,7 @@ V. Bazile, **D. Lamonica**, G. Le Moguédec, D. Marshall and L. Gaume. Variable 
 
 M. Riccardo Di Nicola, ..., **D. Lamonica**, ..., J. L. Dorne. The use of new approach methodologies for the environmental risk assessment of food and feed chemicals. *Current Opinion in Environmental Science & Health*, [**2023**.](https://doi.org/10.1016/j.coesh.2022.100416) \
 
-**D. Lamonica**, S. Charles, B. Clément, and C. Lopes. Chemical effects on ecological interactions within a model-experiment loop. *PCI Ecotoxicology*, [**2022**.](https://peercommunityjournal.org/articles/10.24072/pcjournal.209/) \
+**D. Lamonica**, S. Charles, B. Clément and C. Lopes. Chemical effects on ecological interactions within a model-experiment loop. *PCI Ecotoxicology*, [**2022**.](https://peercommunityjournal.org/articles/10.24072/pcjournal.209/) \
 
 S. Charles, ..., **D. Lamonica**, ..., C. Lopes. Generic solving of physiologically-based kinetic models in support of next generation risk assessment due to chemicals. *J Explor Res Pharmacol.*, [**2022**.](https://doi.org/10.14218/JERP.2022.00043) \
 
