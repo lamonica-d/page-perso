@@ -9,6 +9,9 @@ website:
         text: Current work
       - href: cv.qmd
         text: Education & Jobs
+  page-footer:
+   left: |
+      ![](no_ai_logo.png){width=20%}
 
 format:
   html:
