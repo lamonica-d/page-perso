@@ -48,7 +48,7 @@ Upscaling biological levels from individual to landscape. \
 
 * gecevar R package development [Github](https://github.com/ghislainv/gecevar)
 
-* R training ISI [more info](https://isi.pages.ird.fr/formations/welcome_isi_training/)
+* R training ISI [R for beginners](https://isi.pages.ird.fr/formations/isi-formation-rdebutant/)
 
 * Teaching 'Introduction to modelling' at Montpellier SupAgro
 
@@ -64,7 +64,7 @@ N. Besson, P. Ploton, **D. Lamonica**, ..., P. Heuret. Beyond evergreen and deci
 
 S. Isnard, L. Cheng-Clavel, **D. Lamonica** and Y. Pillon. Does metal (Ni and Mn) hyperaccumulation shift plant position along the leaf economics spectrum? Submitted to *Environmental and Experimental Botany*, [preprint.](http://dx.doi.org/10.2139/ssrn.7360181) \
 
-J. Engel, D. Sabatier, ..., **D. Lamonica**, ..., et al. Thirty-two years of inventory data (1986-2018) from the GUYADIV forest plot network in French Guiana, covering 100 ha and 90,000 trees. *Annals of Forest Science*, accepted.
+J. Engel, D. Sabatier, ..., **D. Lamonica**, ..., et al. Thirty-two years of inventory data (1986-2018) from the GUYADIV forest plot network in French Guiana, covering 100 ha and 90,000 trees. *Annals of Forest Science*, [**2026**.](https://doi.org/10.1186/s13595-026-01367-1) \
 
 V. Bazile, **D. Lamonica**, G. Le Moguédec, D. Marshall and L. Gaume. Variable contribution of inquilines to prey digestion in Nepenthes pitcher plants: the role of pitcher traits. *Phil. Trans. R. Soc. B*, [**2026**.](https://doi.org/10.1098/rstb.2025.0095) \
 
